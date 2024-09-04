@@ -58,7 +58,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>Zombie Fighters</h1>
+      <h1>Zombie Fighter</h1>
       <h2>Money: ${money}</h2>
       <h3>Team Strength: {totalStrength}</h3>
       <h3>Team Agility: {totalAgility}</h3>
